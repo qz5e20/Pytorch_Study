@@ -1,4 +1,6 @@
 # Pytorch_study
+This is some of the training I personally did while learning pytorch.
 
-Some practice record.
-04 data https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+03 data is MNIST.
+
+04 data from [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
