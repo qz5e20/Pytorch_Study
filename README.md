@@ -1,5 +1,5 @@
 # Pytorch_study
-This is some of the training I personally did while learning pytorch.
+This is some of the training while learning pytorch.
 
 03 and 05 data is MNIST.
 
